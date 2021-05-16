@@ -11,7 +11,7 @@ f = 20
 Cr = 1e-3
 Lr = 1 / ((2 * f * math.pi)**2 * Cr)
 fc = 1 / (2 * math.pi * math.sqrt(Lr * Cr))
-# print(Lr)
+print(Lr)
 # print(fc)
 
 
